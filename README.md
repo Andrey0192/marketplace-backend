@@ -24,6 +24,9 @@ docker compose up -d
 3) Swagger UI:
 - http://localhost:8080/swagger-ui.html
 
+4) OpenAPI JSON: 
+- http://localhost:8080/v3/api-docs
+
 ## API
 - /api/users CRUD
 - /api/categories CRUD
