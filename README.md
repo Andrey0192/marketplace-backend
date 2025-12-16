@@ -1,6 +1,6 @@
 # marketplace-backend (MVP)
 
-Spring Boot 3 + Java 17 starter backend for a simple marketplace-like product.
+Spring Boot 3 + Java 17 backend for marketplace product.
 
 ## Stack
 - Java 17
